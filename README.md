@@ -1,6 +1,6 @@
 # FractalPainter v0.2 — Pintura Fractal Guiada por Contornos
 
-**FractalPainter v0.3** es una herramienta experimental construida en Unity que permite pintar con trazos fractales sobre los contornos detectados de una imagen base. Los bordes son detectados mediante un shader Sobel, y la pintura solo se activa en esas zonas, generando patrones fractales guiados visualmente por la estructura de la imagen.
+**FractalPainter v0.2** es una herramienta experimental construida en Unity que permite pintar con trazos fractales sobre los contornos detectados de una imagen base. Los bordes son detectados mediante un shader Sobel, y la pintura solo se activa en esas zonas, generando patrones fractales guiados visualmente por la estructura de la imagen.
 
 ---
 
